@@ -4,10 +4,11 @@
 - 몬티홀 문제는 조건부 확률을 다루는 유명한 문제 중 하나로, 
 - User가 "A,B,C의 경우에서 A를 선택했을 때, 선택하지 않은 B,C에서 정답이 아닌 것이 하나의 수를 알게 된다면, 현재 선택한 A를 바꾸는 것이 이듯이 되는 것인가?" 에 대한 확률 역설이다.
 
+------------------
 ## 몬티홀 확률 계산 정리
 
 <details>
-<summary>몬티홀 문제 정리(왼쪽 클릭하면 열림) <sup>[1](#footnote_1)</sup> </summary>
+<summary>몬티홀 문제 정리(왼쪽 화살표 클릭하면 열림) <sup>[1](#footnote_1)</sup> </summary>
 
 ## 몬티 홀 문제를 정확히 설명하는 조건부확률 
 
@@ -57,10 +58,11 @@
 ![image](https://user-images.githubusercontent.com/33884553/235690215-a95867c7-5862-4c9b-ae55-92df66b9f91a.png)
 
 몬티홀 문제에서 선택을 바꾸면 이길 확률이 2/3가 된다.
-
+------------------
  <a name="footnote_1">1</a>: 내용 출처 http://www.allthatmath.com/bbs/board.php?bo_table=sub_113&wr_id=308
 </details>
 
+------------------
 ## 몬티홀 코드를 위한 분석 진행
 1. 알고리즘 Flow 정리
 2. 반복문, 랜덤 함수 적용하여 코드 작성
