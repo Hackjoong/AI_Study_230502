@@ -58,6 +58,7 @@
 ![image](https://user-images.githubusercontent.com/33884553/235690215-a95867c7-5862-4c9b-ae55-92df66b9f91a.png)
 
 몬티홀 문제에서 선택을 바꾸면 이길 확률이 2/3가 된다.
+
 ------------------
  <a name="footnote_1">1</a>: 내용 출처 http://www.allthatmath.com/bbs/board.php?bo_table=sub_113&wr_id=308
 </details>
