@@ -58,9 +58,13 @@
 
 몬티홀 문제에서 선택을 바꾸면 이길 확률이 2/3가 된다.
 
+ [^myfootnote] 내용 출처 http://www.allthatmath.com/bbs/board.php?bo_table=sub_113&wr_id=308
 </details>
 
 ## 몬티홀 코드를 위한 분석 진행
 1. 알고리즘 Flow 정리
 2. 반복문, 랜덤 함수 적용하여 코드 작성
+
+
+
 
