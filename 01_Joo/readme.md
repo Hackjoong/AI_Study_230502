@@ -7,9 +7,9 @@
 ## 몬티홀 확률 계산 정리
 
 <details>
-<summary>몬티홀 문제 정리(왼쪽 클릭하면 열림)</summary>
+<summary>몬티홀 문제 정리(왼쪽 클릭하면 열림) <sup>[1](#footnote_1)</sup> </summary>
 
-## 몬티 홀 문제를 정확히 설명하는 조건부확률
+## 몬티 홀 문제를 정확히 설명하는 조건부확률 
 
 사건 X가 발생할 확률을 P(X), 사건 Y가 발생할 확률을 P(Y)라고 하자. 
 사건 Y가 발생했을 때 X가 발생할 확률을 P(X|Y)라고 하면, P(X|Y)는 사건 X와 Y가 동시에 발생할 확률 P(X∩Y)을 사건 Y가 발생할 확률 P(Y)로 나눈 값이 된다.
@@ -58,7 +58,7 @@
 
 몬티홀 문제에서 선택을 바꾸면 이길 확률이 2/3가 된다.
 
- [^myfootnote] 내용 출처 http://www.allthatmath.com/bbs/board.php?bo_table=sub_113&wr_id=308
+ <a name="footnote_1">1</a>: 내용 출처 http://www.allthatmath.com/bbs/board.php?bo_table=sub_113&wr_id=308
 </details>
 
 ## 몬티홀 코드를 위한 분석 진행
